@@ -12,18 +12,18 @@ const Header = () => {
           
               
             <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-                <ul className="navbar-nav">
+                <ul className="navbar-nav nav_links">
                   <li className="nav-item active">
-                    <a className="nav-link" href="/home">Home <span className="sr-only">(current)</span></a>
+                    <a href="/home">Home <span className="sr-only">(current)</span></a>
                   </li>
                   <li className="nav-item active">
-                    <a className="nav-link" href="/appointment">Appointment <span className="sr-only">(current)</span></a>
+                    <a href="/appointment">Appointment <span className="sr-only">(current)</span></a>
                   </li>
                   <li className="nav-item active">
-                    <a className="nav-link" href="/dashboard">Doctors Dashboard <span className="sr-only">(current)</span></a>
+                    <a href="/dashboard">Doctors Dashboard <span className="sr-only">(current)</span></a>
                   </li>
                   <li className="nav-item active">
-                    <a className="nav-link" href="/login">Login <span className="sr-only">(current)</span></a>
+                    <a href="/login">Login <span className="sr-only">(current)</span></a>
                   </li>
                 </ul>
             </div>
