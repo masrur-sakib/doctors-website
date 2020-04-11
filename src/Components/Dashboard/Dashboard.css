@@ -27,3 +27,6 @@
 th, td {
     border-bottom: 1px solid #ddd;
   }
+  .back_to_home{
+      color: blue;
+  }

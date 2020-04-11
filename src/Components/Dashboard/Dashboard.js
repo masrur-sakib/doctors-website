@@ -256,6 +256,8 @@ function Dashboard(props) {
                                 <th><button className='btn btn-info'>View</button></th>
                             </tr>
                         </table>
+                        <br/>
+                        <a className='back_to_home' href="/home">Back to home</a>
                     </div>
                 </div>
             </main>

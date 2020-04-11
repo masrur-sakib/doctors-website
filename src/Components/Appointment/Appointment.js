@@ -7,7 +7,8 @@ const Appointment = () => {
     return (
         <div>
             <div className='container appointment_section'>
-                <h1>Appointment</h1>
+                <h3>Appointment</h3>
+                <br/>
                 <Calendar />
             </div>
             <div className='container'>

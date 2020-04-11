@@ -2,8 +2,11 @@
     background-color: #cac9c9;
 }
 .homepage_first_section{
-    padding: 20% 5%;
+    padding: 15% 20%;
     background-color: #cac9c9;
+    background-image: url(../../images/Mask_Group_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: left;
     border-bottom: 1px solid grey;
 }
