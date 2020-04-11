@@ -1,0 +1,29 @@
+.recent_appointments{
+    margin-top: 50px;
+    color: #138496;
+    text-align: left;
+}
+.appointments{
+    padding: 10%;
+    color: white;
+    border-radius: 20px;
+    text-align: left;
+}
+.pending{
+    background-color: slateblue;
+}
+.today{
+    background-color: orange;
+}
+.total{
+    background-color: green;
+}
+.cumulative{
+    background-color: rgb(6, 147, 241);
+}
+.table_style{
+    width: 100%;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
