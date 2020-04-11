@@ -12,6 +12,7 @@ import Appointment from './Components/Appointment/Appointment';
 import Dashboard from './Components/Dashboard/Dashboard';
 import Login from './Components/Login/Login';
 import NotFound from './Components/NotFound/NotFound';
+import BookAppointment from './Components/BookAppointment/BookAppointment';
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
         </Route>
         <Route path="/login">
             <Login></Login>
+        </Route>
+        <Route path="/book-appointment">
+            <BookAppointment></BookAppointment>
         </Route>
         <Route exact path="/">
           <Homepage></Homepage>

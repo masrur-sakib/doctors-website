@@ -1,6 +1,7 @@
 .nav_links{
     margin-right: 50px;
 }
-a:hover{
-    transform: scale(0.95);
+.nav-link:hover{
+    transform: scale(0.9);
+    color: yellow;
 }

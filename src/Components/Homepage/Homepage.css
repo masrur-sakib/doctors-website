@@ -1,8 +1,10 @@
-.App{
-    margin: 0px;
+.body{
+    background-color: #cac9c9;
 }
 .homepage_first_section{
-    padding: 200px 100px;
+    padding: 20% 5%;
     background-color: #cac9c9;
     text-align: left;
+    border-bottom: 1px solid grey;
 }
+
