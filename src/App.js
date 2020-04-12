@@ -13,6 +13,7 @@ import Dashboard from './Components/Dashboard/Dashboard';
 import Login from './Components/Login/Login';
 import NotFound from './Components/NotFound/NotFound';
 import BookAppointment from './Components/BookAppointment/BookAppointment';
+import addAppointment from './Components/addAppointment/addAppointment';
 
 function App() {
   return (
@@ -34,6 +35,9 @@ function App() {
         </Route>
         <Route path="/book-appointment">
             <BookAppointment></BookAppointment>
+        </Route>
+        <Route path="/add-appointment">
+            <addAppointment></addAppointment>
         </Route>
         <Route exact path="/">
           <Homepage></Homepage>

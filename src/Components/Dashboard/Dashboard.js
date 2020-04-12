@@ -156,10 +156,10 @@ function Dashboard(props) {
                     <div class="col-md-3">
                         <div class="pending appointments">
                             <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-md-2">
                                     <h2 id="pending_appointments">5</h2>
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-10">
                                     <h4>Pending Appointments</h4>
                                 </div>
                             </div>
