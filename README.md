@@ -1,4 +1,4 @@
-<h3>Project Name: React.js Ecommerce Website<h3>
+<h3>React.js Ecommerce Website<h3>
         <h6>A full stack web app with dashboard where people fix an appointment with a doctor. A doctor can review his appointments and prescribe medicine to a Patient from his dashboard.</h6>
         <h3>Technology Used:</h3>
         <ul>
